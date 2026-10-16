@@ -9,8 +9,8 @@
 # Apple Developer ID).
 
 cask "buddy" do
-  version "1.4.3"
-  sha256 "fae1c803b528b8b8e4140a47a4e00065dd03753416cc8b91f6d38302333d8abf"
+  version "1.4.4"
+  sha256 "86d84121b58606788e8d01fdd8ade00018c1fb86d9e6ec17d46e45ee2a1e9055"
 
   url "https://github.com/akshatgg/Buddy/releases/download/v#{version}/Buddy-arm64.dmg"
   name "Buddy"
